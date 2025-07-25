@@ -1,6 +1,6 @@
 streamlit
 pandas
 requests
-pulp
+pulp==2.7.0
 tqdm
 matplotlib
